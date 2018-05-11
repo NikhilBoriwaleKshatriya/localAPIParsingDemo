@@ -1,0 +1,12 @@
+{
+  "expertPainPanels" : [
+     {
+       "name": "User A",
+       "organization": "Company A"
+     },
+     {
+       "name": "User B",
+       "organization": "Company B"
+     }
+    ]
+}

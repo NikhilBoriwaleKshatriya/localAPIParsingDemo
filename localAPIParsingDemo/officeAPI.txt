@@ -1,0 +1,22 @@
+{
+	"type": "person",
+	"first name": "Johnny",
+	"last name": "Appleseed",
+	"nickname": null,
+	"age": 42,
+	"phone numbers": [{
+			"type": "work ",
+			"number ": "+ 1(555) 555 - 5555"
+		},
+		{
+			"type ": "home",
+			"number ": null
+		}
+	],
+	"work address ": {
+		"line 1 ": "1234 5 th Avenue ",
+		"line 2 ": null,
+		"city ": "Hometown "
+	},
+	"home address ": null
+}

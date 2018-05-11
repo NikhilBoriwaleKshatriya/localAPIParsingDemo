@@ -14,6 +14,19 @@
 		4709FDD11FEC0B590036DA69 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4709FDCF1FEC0B590036DA69 /* LaunchScreen.storyboard */; };
 		4709FDDC1FEC0B590036DA69 /* localAPIParsingDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4709FDDB1FEC0B590036DA69 /* localAPIParsingDemoTests.swift */; };
 		4709FDE71FEC0B5A0036DA69 /* localAPIParsingDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4709FDE61FEC0B5A0036DA69 /* localAPIParsingDemoUITests.swift */; };
+		4709FDF51FEC0B6E0036DA69 /* userAPIt.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4709FDF41FEC0B6E0036DA69 /* userAPIt.txt */; };
+		4787478F1FECC97A00784F9D /* contactAPI.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4787478E1FECC97A00784F9D /* contactAPI.txt */; };
+		478747911FECCD9B00784F9D /* colorAPI.txt in Resources */ = {isa = PBXBuildFile; fileRef = 478747901FECCD9B00784F9D /* colorAPI.txt */; };
+		478747931FECCFEA00784F9D /* randomuserAPI.txt in Resources */ = {isa = PBXBuildFile; fileRef = 478747921FECCFEA00784F9D /* randomuserAPI.txt */; };
+		478747951FECD2DF00784F9D /* blogAPI.txt in Resources */ = {isa = PBXBuildFile; fileRef = 478747941FECD2DF00784F9D /* blogAPI.txt */; };
+		478747991FECDBDF00784F9D /* expertAPI.txt in Resources */ = {isa = PBXBuildFile; fileRef = 478747981FECDBDF00784F9D /* expertAPI.txt */; };
+		4787479B1FECDD6E00784F9D /* languageAPI.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4787479A1FECDD6E00784F9D /* languageAPI.txt */; };
+		4787479D1FECE22300784F9D /* officeAPI.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4787479C1FECE22300784F9D /* officeAPI.txt */; };
+		4787479F1FECE5DB00784F9D /* dayAPI.txt in Resources */ = {isa = PBXBuildFile; fileRef = 4787479E1FECE5DB00784F9D /* dayAPI.txt */; };
+		478747A11FECE9FA00784F9D /* usersdataAPI.txt in Resources */ = {isa = PBXBuildFile; fileRef = 478747A01FECE9FA00784F9D /* usersdataAPI.txt */; };
+		478747A31FECEBC400784F9D /* areaAPI.txt in Resources */ = {isa = PBXBuildFile; fileRef = 478747A21FECEBC400784F9D /* areaAPI.txt */; };
+		478747A51FECECCC00784F9D /* postsAPI.txt in Resources */ = {isa = PBXBuildFile; fileRef = 478747A41FECECCC00784F9D /* postsAPI.txt */; };
+		478747A71FECEF1F00784F9D /* productAPI.txt in Resources */ = {isa = PBXBuildFile; fileRef = 478747A61FECEF1F00784F9D /* productAPI.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +60,19 @@
 		4709FDE21FEC0B590036DA69 /* localAPIParsingDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = localAPIParsingDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4709FDE61FEC0B5A0036DA69 /* localAPIParsingDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = localAPIParsingDemoUITests.swift; sourceTree = "<group>"; };
 		4709FDE81FEC0B5A0036DA69 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4709FDF41FEC0B6E0036DA69 /* userAPIt.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = userAPIt.txt; sourceTree = "<group>"; };
+		4787478E1FECC97A00784F9D /* contactAPI.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = contactAPI.txt; sourceTree = "<group>"; };
+		478747901FECCD9B00784F9D /* colorAPI.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = colorAPI.txt; sourceTree = "<group>"; };
+		478747921FECCFEA00784F9D /* randomuserAPI.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = randomuserAPI.txt; sourceTree = "<group>"; };
+		478747941FECD2DF00784F9D /* blogAPI.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = blogAPI.txt; sourceTree = "<group>"; };
+		478747981FECDBDF00784F9D /* expertAPI.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = expertAPI.txt; sourceTree = "<group>"; };
+		4787479A1FECDD6E00784F9D /* languageAPI.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = languageAPI.txt; sourceTree = "<group>"; };
+		4787479C1FECE22300784F9D /* officeAPI.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = officeAPI.txt; sourceTree = "<group>"; };
+		4787479E1FECE5DB00784F9D /* dayAPI.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dayAPI.txt; sourceTree = "<group>"; };
+		478747A01FECE9FA00784F9D /* usersdataAPI.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = usersdataAPI.txt; sourceTree = "<group>"; };
+		478747A21FECEBC400784F9D /* areaAPI.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = areaAPI.txt; sourceTree = "<group>"; };
+		478747A41FECECCC00784F9D /* postsAPI.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = postsAPI.txt; sourceTree = "<group>"; };
+		478747A61FECEF1F00784F9D /* productAPI.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = productAPI.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +123,19 @@
 		4709FDC51FEC0B590036DA69 /* localAPIParsingDemo */ = {
 			isa = PBXGroup;
 			children = (
+				4709FDF41FEC0B6E0036DA69 /* userAPIt.txt */,
+				4787478E1FECC97A00784F9D /* contactAPI.txt */,
+				478747941FECD2DF00784F9D /* blogAPI.txt */,
+				478747A61FECEF1F00784F9D /* productAPI.txt */,
+				478747901FECCD9B00784F9D /* colorAPI.txt */,
+				478747A41FECECCC00784F9D /* postsAPI.txt */,
+				478747981FECDBDF00784F9D /* expertAPI.txt */,
+				4787479E1FECE5DB00784F9D /* dayAPI.txt */,
+				478747A21FECEBC400784F9D /* areaAPI.txt */,
+				478747A01FECE9FA00784F9D /* usersdataAPI.txt */,
+				478747921FECCFEA00784F9D /* randomuserAPI.txt */,
+				4787479A1FECDD6E00784F9D /* languageAPI.txt */,
+				4787479C1FECE22300784F9D /* officeAPI.txt */,
 				4709FDC61FEC0B590036DA69 /* AppDelegate.swift */,
 				4709FDC81FEC0B590036DA69 /* ViewController.swift */,
 				4709FDCA1FEC0B590036DA69 /* Main.storyboard */,
@@ -232,9 +271,22 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				478747A51FECECCC00784F9D /* postsAPI.txt in Resources */,
 				4709FDD11FEC0B590036DA69 /* LaunchScreen.storyboard in Resources */,
+				4787479D1FECE22300784F9D /* officeAPI.txt in Resources */,
+				4787479B1FECDD6E00784F9D /* languageAPI.txt in Resources */,
+				478747911FECCD9B00784F9D /* colorAPI.txt in Resources */,
 				4709FDCE1FEC0B590036DA69 /* Assets.xcassets in Resources */,
 				4709FDCC1FEC0B590036DA69 /* Main.storyboard in Resources */,
+				478747A71FECEF1F00784F9D /* productAPI.txt in Resources */,
+				478747A31FECEBC400784F9D /* areaAPI.txt in Resources */,
+				4709FDF51FEC0B6E0036DA69 /* userAPIt.txt in Resources */,
+				478747991FECDBDF00784F9D /* expertAPI.txt in Resources */,
+				4787479F1FECE5DB00784F9D /* dayAPI.txt in Resources */,
+				4787478F1FECC97A00784F9D /* contactAPI.txt in Resources */,
+				478747931FECCFEA00784F9D /* randomuserAPI.txt in Resources */,
+				478747951FECD2DF00784F9D /* blogAPI.txt in Resources */,
+				478747A11FECE9FA00784F9D /* usersdataAPI.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -505,6 +557,7 @@
 				4709FDED1FEC0B5A0036DA69 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4709FDEE1FEC0B5A0036DA69 /* Build configuration list for PBXNativeTarget "localAPIParsingDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +566,7 @@
 				4709FDF01FEC0B5A0036DA69 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4709FDF11FEC0B5A0036DA69 /* Build configuration list for PBXNativeTarget "localAPIParsingDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +575,7 @@
 				4709FDF31FEC0B5A0036DA69 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

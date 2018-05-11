@@ -1,0 +1,13 @@
+[{
+	"area_code": 1,
+	"area_name": "value"
+}, {
+	"area_code": 2,
+	"area_name": "value"
+}, {
+	"area_code": 3,
+	"area_name": "value"
+}, {
+	"area_code": 4,
+	"area_name": "value"
+}]

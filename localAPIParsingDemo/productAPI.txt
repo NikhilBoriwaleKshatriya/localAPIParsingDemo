@@ -1,0 +1,36 @@
+{
+	"products": [{
+			"body_html": "",
+			"created_at": "2016-03-02T13:56:18+03:00",
+			"id": 489759251,
+			"handle": "product",
+			"options": [{
+				"id": 627488838,
+				"product_id": 489759251,
+				"name": "Title",
+				"position": 1,
+				"values": [
+					"Default Title"
+				]
+			}]
+
+		},
+
+		{
+			"body_html": "",
+			"created_at": "2016-03-08T05:17:55+03:00",
+			"id": 530420915,
+			"handle": "product-2",
+			"options": [{
+				"id": 6319359750,
+				"product_id": 530420915,
+				"name": "Title",
+				"position": 1,
+				"values": [
+					"Default Title"
+				]
+			}]
+
+		}
+	]
+}
